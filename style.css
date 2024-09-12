@@ -1,0 +1,73 @@
+@font-face {
+    font-family: figtree;
+    src: url(fonts/Figtree-VariableFont_wght.ttf);
+}
+body{
+    background-color: hsl(47, 88%, 63%);
+    font-family: figtree;
+}
+.container{
+    border-radius: 14px;
+    height: 500px;
+    max-width: 370px;
+    margin: auto;
+    background-color: #ffffff;
+    box-shadow: 8px;
+    margin-top: 50px;
+    border: solid 3px black;
+    box-shadow: 7px 7px 1px black;
+}
+.img1{
+    border-radius: 11px;
+    margin-left: 19.5px;
+    margin-top: 18px;
+}
+.learn{
+    background-color: hsl(47, 88%, 63%);
+    font-size: 16px;
+    font-weight: 1000;
+    margin-left: 20px;
+    margin-top: 10px;
+    padding: 2px;
+    width: 65px;
+    border-radius: 4px;
+}
+.pub{
+    position: relative;
+    margin-top: 12px;
+    margin-left: 18.5px;
+    font-weight: 500;
+    color: hsl(0, 0%, 7%);
+}
+.head{
+    color: hsl(47, 88%, 63%);
+    margin: auto;
+    font-size: 21px;
+    font-weight: bold;
+    width: 600px;
+    margin-left: 18.1px;
+    margin-top: 15px;
+}
+p{
+    color: hsl(0, 0%, 42%);
+    padding: 25px;
+    margin: -2.1px;
+    margin-left: -1.2px;
+    margin-top: -2px;
+}
+.img2{
+    margin-top: -12px;
+    margin-left: 20px;
+}
+.greg{
+    margin-top: -50px;
+    margin-left: 103px;
+    font-weight: 600;
+}
+.com{
+    margin: auto;
+    position: relative;
+    max-width: 370px;
+    left: 7px;
+    top: 20px;
+}
